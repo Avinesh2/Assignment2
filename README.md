@@ -17,9 +17,10 @@ A full-stack web application to help users track, manage, and understand their f
 - **Responsive Design**: Mobile-friendly interface with Tailwind CSS
 - **Date Range Filtering**: Filter transactions and analytics by date range
 - **Indian Rupee Support**: Full localization with ₹ currency formatting
+- Advanced OCR for receipt images (JPG, PNG)
 
 ### 🚧 Planned Features
-- Advanced OCR for receipt images (JPG, PNG)
+
 - Budget setting and tracking
 - Export data to CSV/PDF
 - Email notifications
@@ -67,7 +68,7 @@ Assignment2/
 │   ├── seed.js
 │   └── package.json
 └── Frontend/
-    └── personal-finance-frontend/
+    └──
         ├── src/
         │   ├── components/
         │   │   ├── Analytics.jsx
