@@ -2,6 +2,10 @@
 
 A full-stack web application to help users track, manage, and understand their financial activities in Indian Rupees (₹). Built with Node.js, Express, MongoDB for the backend and React with Tailwind CSS for the frontend.
 
+## 🎥 Demo Video
+
+Watch the complete application walkthrough: [**Personal Finance Assistant Demo**](https://www.loom.com/share/14ed25941c9f405187564985daf78f29?sid=db0173d0-da99-4b38-addc-4ff485f13ce0)
+
 ## Features
 
 ### ✅ Completed Features
